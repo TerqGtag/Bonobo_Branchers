@@ -3,15 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - HandTag
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Left Hand
   - Water
   - UI
-  - 
+  - Right Hand
   - 
   - 
   - 
